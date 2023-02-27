@@ -1,0 +1,8 @@
+body {
+    background-color: #F0F0FF;
+}
+
+h1 , h2 {
+    border-bottom: 1px solid #303336;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
