@@ -1,5 +1,5 @@
 function wordSeach() {
-    // 入力された値を
+    // 入力された値を取得する
     const inputValue = document.getElementById('site-search').value;
     // 入力された値をページ内から検索する
 
